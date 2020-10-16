@@ -1,4 +1,4 @@
-#WAP to compute FOLLOW of the given grammar
+//WAP to compute FOLLOW of the given grammar
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
