@@ -1,4 +1,4 @@
-//for (a+b)*abb
+//To check whether a string belongs to a given grammar or not for (a+b)*abb
 
 #include<stdio.h>
 #include<conio.h>
