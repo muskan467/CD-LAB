@@ -28,7 +28,7 @@ int main()
     int i;
     clrscr();
     printf("Enter string:\n");
-    scanf("%s",&str);
+    scanf("%s", str);
     for(i=0;i<13;i++)
     {
          c=str[i];
